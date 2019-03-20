@@ -21,6 +21,13 @@
             "feed_url": "https://developer.apple.com/news/rss/news.rss"
           },
           {
+            "title": "Blogs for app development",
+            "author": "Anand Mahajan",
+            "site_url": "https://www.sphinx-solution.com/blog",
+            "feed_url": "http://feeds.feedburner.com/sphinx-solution",
+            "twitter_url": "https://twitter.com/sphinx_solution"
+          },
+          {
             "title": "Machine Learning Journal",
             "author": "Apple",
             "site_url": "https://machinelearning.apple.com/",
